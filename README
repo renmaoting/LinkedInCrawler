@@ -1,0 +1,3 @@
+This crawler will be used to grab people's information from linkedin, and analize the data. 
+Currently I want to know the number of USTC alumnis in big companies.
+But once the crawler successfully collect all users' information, maybe I can do some other interesting things.
